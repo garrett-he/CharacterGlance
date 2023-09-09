@@ -1,0 +1,8 @@
+## Interface: 110000
+## Title: CharacterGlance
+## Notes: A simple add-on to glance through all your characters.
+## Author: Garrett HE <garrett.he@outlook.com>
+## Version: 0.1.0
+## SavedVariables: CharacterGlance
+
+main.lua
